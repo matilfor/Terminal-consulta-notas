@@ -1,0 +1,8 @@
+C:\Users\Matilde\documents\visual studio 2010\Projects\ProyectoFinal\ProyectoFinal\obj\x86\Debug\ProyectoFinal.Resources.resources
+C:\Users\Matilde\documents\visual studio 2010\Projects\ProyectoFinal\ProyectoFinal\obj\x86\Debug\ProyectoFinal.vbproj.GenerateResource.Cache
+C:\Users\Matilde\documents\visual studio 2010\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Matilde\documents\visual studio 2010\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Matilde\documents\visual studio 2010\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+C:\Users\Matilde\documents\visual studio 2010\Projects\ProyectoFinal\ProyectoFinal\obj\x86\Debug\ProyectoFinal.exe
+C:\Users\Matilde\documents\visual studio 2010\Projects\ProyectoFinal\ProyectoFinal\obj\x86\Debug\ProyectoFinal.xml
+C:\Users\Matilde\documents\visual studio 2010\Projects\ProyectoFinal\ProyectoFinal\obj\x86\Debug\ProyectoFinal.pdb
